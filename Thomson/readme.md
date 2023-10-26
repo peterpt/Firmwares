@@ -2,4 +2,4 @@ Thomson Firmwares
 
 Thomson ST585
 
-<img src="https://www.speedguide.net/images/hardware/alcatelthompson/speedtouch585/st585.jpg" width="25%"></img>
+<img src="https://camo.githubusercontent.com/41ec461ee425812d8d74826367dde13938718b6e041eeba2af2637e7ebaaa948/68747470733a2f2f7777772e737065656467756964652e6e65742f696d616765732f68617264776172652f616c636174656c74686f6d70736f6e2f7370656564746f7563683538352f73743538352e6a7067" width="25%"></img>
