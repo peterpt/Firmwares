@@ -2,4 +2,4 @@ Icon Devices Firmwares
 
 - Icon Neuron 3
   
-<img src="https://static.bax-shop.es/image/product/31000/147077/13c808b3/450x450/Neuron3silver.jpg" width="25%"></img>
+<img src="https://www.prodj.com.ua/img/1000-1/2014/01/20140108122534.jpg" width="25%"></img>
