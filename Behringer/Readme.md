@@ -1,1 +1,1 @@
-Behringer DDM4000
+Behringer DDM4000 1.02
